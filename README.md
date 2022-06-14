@@ -1,5 +1,5 @@
 # Saved Wifi Password Using Python Tkinter
-<p align="center">
+
 This GUI only extracts the wifi password which was logined Previously on the system works Only for Windows OS only. <br />
 GUI can also Save all extracted Password in the txt file using the save it in file button.<br />
 
